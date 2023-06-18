@@ -1,0 +1,24 @@
+  * what is Git ?
+
+ Git is a distributed word and control system thatallows multiple developer to collabrate onproject efficiency. It was created by Linus
+  Git is widely used to software development for tracking changes co-ordinating work with the team members.
+
+
+
+* Featues of git :-
+      
+        1. Version controls:- Git track changes to files and directory in the project.
+	                      creating a history of all the modification.
+
+
+	2. Distrbuted System:-
+
+
+	3. Branching merging:- Git allows you to create branches which are independent lines of development.
+				This is use to isolating feature.
+
+	
+	4. Remove Repositories:-
+
+
+	5. Github and other posting platform:- Github is the popular web based hosting service for git.
